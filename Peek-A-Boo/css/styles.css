@@ -1,0 +1,12 @@
+.bat-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color:blueviolet;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
